@@ -6,9 +6,9 @@ This repository presents a comprehensive approach to forecasting Apple Inc. (AAP
 
 The project explores three distinct deep learning architectures to forecast AAPL price movements, with a focus on the preceding 90 days of data. The models tested include:
 
-- **LSTM (Long Short-Term Memory)**
-- **GRU (Gated Recurrent Units)**
-- **LSTM-GRU Hybrid** (the most effective )
+- **LSTM (Long Short-Term Memory)** - MAE: 0.0887
+- **GRU (Gated Recurrent Units)** - MAE: 0.0756
+- **LSTM-GRU Hybrid** (the most effective ) - MAE: 0.0518
 
 Incorporating technical indicators such as the Relative Strength Index (RSI) and Moving Average Convergence Divergence (MACD) enhances the model's ability to mimic actual price movements. To further interpret the model's predictions, SHAP (SHapley Additive exPlanations) values are utilized, providing insights into feature contributions.
 
