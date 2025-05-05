@@ -14,7 +14,7 @@ Incorporating technical indicators such as the Relative Strength Index (RSI) and
 
 Additionally, the project integrates GPT-2 to generate textual explanations, aiding in understanding the optimal timing for stock investments.
 
-## File Structure
+## Repository Structure
 
 ```plaintext
 XAI-Stock-Market-Prediction/
