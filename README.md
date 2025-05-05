@@ -56,7 +56,7 @@ XAI-Stock-Market-Prediction/
 Before running the code, ensure that you have installed the followings:
 
 ```plaintext
-pip install pandas pandas-ta numpy seaborn matplotlib yfinance scikit-learn tensorflow optuna shap keras
+pip install keras tensorflow pandas pandas-ta numpy seaborn matplotlib yfinance scikit-learn optuna shap 
 ```
 
 
