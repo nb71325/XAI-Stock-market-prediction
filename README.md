@@ -16,3 +16,19 @@ Additionally, the project integrates GPT-2 to generate textual explanations, aid
 
 ## 📁 File Structure
 
+XAI-Stock-Market-Prediction/
+│
+├── code/
+│ ├── data_preprocessing.py # Clean and engineer features
+│ ├── model_training.py # Train LSTM, GRU, and hybrid models
+│ ├── shap_analysis.py # SHAP value computation and plots
+│ └── gpt2_integration.py # GPT-2 for textual interpretation
+│
+├── database/
+│ └── aapl_stock_data.csv # Historical stock data
+│
+├── pickles/
+│ ├── trained_model.pkl # Saved hybrid model
+│ └── shap_values.pkl # Stored SHAP values
+│
+└── README.md # Project documentation
