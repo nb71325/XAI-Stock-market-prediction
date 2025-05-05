@@ -10,7 +10,7 @@ The project explores three distinct deep learning architectures to forecast AAPL
 - **GRU (Gated Recurrent Units)** - MAE: 0.0756
 - **LSTM-GRU Hybrid** (the most effective ) - MAE: 0.0518
 
-Incorporating technical indicators such as the Relative Strength Index (RSI) and Moving Average Convergence Divergence (MACD) enhances the model's ability to mimic actual price movements. To further interpret the model's predictions, SHAP (SHapley Additive exPlanations) values are utilized, providing insights into feature contributions.
+Incorporating technical indicators such as the Relative Strength Index (RSI) and Moving Average Convergence Divergence (MACD) enhances the model's ability to mimic actual price movements. To further interpret the model's predictions, SHapley Additive exPlanations (SHAP) values are used, providing insights into feature contributions.
 
 Additionally, the project integrates GPT-2 to generate textual explanations, aiding in understanding the optimal timing for stock investments.
 
