@@ -49,7 +49,7 @@ XAI-Stock-Market-Prediction/
 │       └── best_model_hybrid.h5 
 │
 └── README.md                       # Project documentation
-
+```plaintext
 
 ## Requirements
 
