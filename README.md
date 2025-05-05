@@ -49,7 +49,7 @@ XAI-Stock-Market-Prediction/
 │       └── best_model_hybrid.h5 
 │
 └── README.md                       # Project documentation
-```plaintext
+```
 
 ## Requirements
 
@@ -57,6 +57,7 @@ Before running the code, ensure that you have installed the followings:
 
 ```plaintext
 pip install pandas pandas-ta numpy seaborn matplotlib yfinance scikit-learn tensorflow optuna shap keras
+```
 
 
 ## How to Run
@@ -66,3 +67,4 @@ Clone the repository with the following commands in a Command Prompt:
 ```plaintext
 git clone https://github.com/nb71325/XAI-Stock-market-prediction.git
 cd XAI-Stock-market-prediction
+```
